@@ -1,0 +1,37 @@
+.button {
+  border: none;
+  background-color: #282c34;
+  font-size: 15px;
+  font-weight: 400;
+  color: white;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.button-plus {
+  padding: 0px 10px;
+  border: 2px solid rgba(155, 0, 250, 1) 100%;
+  border-radius: 50%;
+  background: linear-gradient(
+    90deg,
+    rgba(93, 12, 255, 1) 0%,
+    rgba(155, 0, 250, 1) 100%
+  );
+  color: white;
+  width: 10%;
+}
+
+.button-completed {
+  display: block;
+  color: rgb(8, 245, 87);
+  margin-top: 4px;
+  background-color: #282c34;
+}
+
+.button-remove {
+  font-weight: 700;
+  color: red;
+  background-color: #282c34;
+}

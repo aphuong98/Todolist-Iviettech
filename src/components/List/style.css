@@ -1,0 +1,16 @@
+.list-wrapper {
+  padding: 0 20px;
+  height: 480px;
+}
+
+.list-item {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  gap: 20px;
+  padding-block: 13px;
+}
+p {
+  color: white !important;
+  
+}

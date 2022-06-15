@@ -1,0 +1,11 @@
+.panigation-wrapper{
+  width: 200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  background-color: #282c34;
+}
+
+.button-color{
+  color: red;
+}
